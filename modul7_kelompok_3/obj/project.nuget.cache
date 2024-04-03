@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AeYrgt0f0h56F90vRZaX3JZQBpU7IVfc1RDyOF85GpMD0qR+055vlty/6aLqTcDgrmCHdRzhO062bk3CgWt/kA==",
+  "dgSpecHash": "tnE8GxTHSxsOX69cA7DCkBTUoxrYb7S3EcPsjLi/E6vrBgCM91QZaWSLlV53j62tfMYyxhNspYga3Yst53TBtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\kpl 2\\jurnal mod 7\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fersya Zufar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {}
+    "D:\\kpl 2\\jurnal mod 7\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {
+    "D:\\kpl 2\\jurnal mod 7\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+        "projectUniqueName": "D:\\kpl 2\\jurnal mod 7\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
         "projectName": "modul7_kelompok_3",
-        "projectPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
-        "packagesPath": "C:\\Users\\daffa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\obj\\",
+        "projectPath": "D:\\kpl 2\\jurnal mod 7\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+        "packagesPath": "C:\\Users\\Fersya Zufar\\.nuget\\packages\\",
+        "outputPath": "D:\\kpl 2\\jurnal mod 7\\modul7_kelompok_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fersya Zufar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
