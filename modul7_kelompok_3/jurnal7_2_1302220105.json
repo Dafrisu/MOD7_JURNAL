@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+       "firstName": "Daffa",
+       "lastName": "Suandi",
+       "gender": "male",
+       "age": 22,
+       "nim": "1302223156"
+    },
+    {
+       "firstName": "Haikal",
+       "lastName": "Risnandar",
+       "gender": "male",
+       "age": 22,
+       "nim": "1302220150"
+    },
+    {
+      "firstName": "Darryl",
+      "lastName": "Rambi",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302223154"
+    },
+    {
+      "firstName": "Raphael",
+      "lastName": "Barus",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302220140"
+    },
+    {
+      "firstName": "Fersya",
+      "lastName": "Zufar",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302223090"
+    },
+    {
+      "firstName": "Mahesa",
+      "lastName": "Zain",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302220105"
+    }
+  ]
+}
