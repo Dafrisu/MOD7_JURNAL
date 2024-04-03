@@ -8,6 +8,8 @@ class Program
     static void Main(string[] args)
     {
         DataMahasiswa mhs = new DataMahasiswa();
-        mhs.ReadJSON();
+        TeamMembers team = new TeamMembers();
+        team.ReadJSON();
+        //mhs.ReadJSON();
     }
 }
