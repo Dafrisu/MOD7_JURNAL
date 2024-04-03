@@ -11,5 +11,7 @@ class Program
         Console.WriteLine("Bagian Mahesa - 1302220105");
         DataMahasiswa_1302220105.ReadJSON();
         Console.WriteLine(" ");
+        TeamMembers_1302220105.ReadJSON();
+        Console.WriteLine(" ");
     }
 }
