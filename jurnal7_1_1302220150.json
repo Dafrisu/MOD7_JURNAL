@@ -1,15 +1,15 @@
 {
-   "firstName": "John",
-   "lastName": "Taslim",
+   "firstName": "Haikal",
+   "lastName": "Risnandar",
    "gender": "male",
-   "age": 25,
+   "age": 19,
    "address": {
-       "streetAddress": "Lengkong",
+       "streetAddress": "Panyadap",
        "city": "Bandung",
        "state": "West Java"
    },
    "courses": [
        { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
-       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+       { "code": "CII3B4", "name": "Pemrograman Berorientasi Objek" }
    ]
 }
