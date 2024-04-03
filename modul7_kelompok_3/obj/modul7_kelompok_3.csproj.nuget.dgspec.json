@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {}
+    "E:\\TELKOM UNIVERSITY\\TUGAS KULIAH\\KONSTRUKSI PERANGKAT LUNAK (KPL)\\MODUL7_KELOMPOK _3\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {
+    "E:\\TELKOM UNIVERSITY\\TUGAS KULIAH\\KONSTRUKSI PERANGKAT LUNAK (KPL)\\MODUL7_KELOMPOK _3\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+        "projectUniqueName": "E:\\TELKOM UNIVERSITY\\TUGAS KULIAH\\KONSTRUKSI PERANGKAT LUNAK (KPL)\\MODUL7_KELOMPOK _3\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
         "projectName": "modul7_kelompok_3",
-        "projectPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
-        "packagesPath": "C:\\Users\\daffa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\obj\\",
+        "projectPath": "E:\\TELKOM UNIVERSITY\\TUGAS KULIAH\\KONSTRUKSI PERANGKAT LUNAK (KPL)\\MODUL7_KELOMPOK _3\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "E:\\TELKOM UNIVERSITY\\TUGAS KULIAH\\KONSTRUKSI PERANGKAT LUNAK (KPL)\\MODUL7_KELOMPOK _3\\MOD7_JURNAL\\modul7_kelompok_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
