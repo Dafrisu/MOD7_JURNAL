@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\daffa\\.nuget\\packages\\": {}
+    "C:\\Users\\haika\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+      "projectUniqueName": "C:\\Users\\haika\\Downloads\\Jurnal online\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
       "projectName": "modul7_kelompok_3",
-      "projectPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
-      "packagesPath": "C:\\Users\\daffa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\obj\\",
+      "projectPath": "C:\\Users\\haika\\Downloads\\Jurnal online\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+      "packagesPath": "C:\\Users\\haika\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\haika\\Downloads\\Jurnal online\\MOD7_JURNAL\\modul7_kelompok_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\haika\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

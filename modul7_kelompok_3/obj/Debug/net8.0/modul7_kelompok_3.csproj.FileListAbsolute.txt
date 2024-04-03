@@ -1,0 +1,15 @@
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\bin\Debug\net8.0\modul7_kelompok_3.exe
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\bin\Debug\net8.0\modul7_kelompok_3.deps.json
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\bin\Debug\net8.0\modul7_kelompok_3.runtimeconfig.json
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\bin\Debug\net8.0\modul7_kelompok_3.dll
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\bin\Debug\net8.0\modul7_kelompok_3.pdb
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.AssemblyInfoInputs.cache
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.AssemblyInfo.cs
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.csproj.CoreCompileInputs.cache
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.sourcelink.json
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.dll
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\refint\modul7_kelompok_3.dll
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.pdb
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.genruntimeconfig.cache
+C:\Users\haika\Downloads\Jurnal online\MOD7_JURNAL\modul7_kelompok_3\obj\Debug\net8.0\ref\modul7_kelompok_3.dll
