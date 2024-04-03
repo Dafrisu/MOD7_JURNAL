@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\daffa\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\KPL\\JurnalMOD7\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
       "projectName": "modul7_kelompok_3",
-      "projectPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
-      "packagesPath": "C:\\Users\\daffa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\Jurnal\\modul7_kelompok_3\\modul7_kelompok_3\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\KPL\\JurnalMOD7\\MOD7_JURNAL\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\KPL\\JurnalMOD7\\MOD7_JURNAL\\modul7_kelompok_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
